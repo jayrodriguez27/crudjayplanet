@@ -1,0 +1,28 @@
+{
+    "jugadores": [
+        {
+            "nombre": "Cristiano Ronaldo",
+            "edad": 39,
+            "nacionalidad": "Portugues",
+            "posicion": "DC Y MP",
+            "club": "Al Nassr",
+            "goles": 904
+        },
+        {
+            "nombre": "Lionel Messi",
+            "edad": 37,
+            "nacionalidad": "Argentino",
+            "posicion": "DC MP y MCO",
+            "club": "Inter de Miami",
+            "goles": 843
+        },
+        {
+            "nombre": "Roman Riquelme",
+            "edad": 46,
+            "nacionalidad": "Argentino",
+            "posicion": "MC y MCO",
+            "club": "Retirado pipipipi",
+            "goles": 148
+        }
+    ]
+}
